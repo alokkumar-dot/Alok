@@ -9,4 +9,4 @@ This is my first project on GitHub.
 - 🌐 Interested in digital marketing and AI  
 
 ## How to view my website
-Visit: [https://alok.github.io/](https://alok.github.io/) (replace with your real link)
+Visit: [https://alok.github.io/]loki.html
